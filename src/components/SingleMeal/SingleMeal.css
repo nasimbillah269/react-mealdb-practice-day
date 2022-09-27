@@ -1,0 +1,48 @@
+.meal-itme {
+    position: relative;
+    width: 250px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.meal-info {
+    margin: 0 15px;
+}
+
+.meal-name {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.area {
+    margin-top: 5px;
+}
+
+.meal-itme img {
+    width: 220px;
+    height: 220px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.btn-meal {
+    width: 100%;
+    border: none;
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(2, 44, 44);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn-meal p {
+    margin-right: 10px;
+}
+
+.btn-meal:hover {
+    background-color: rgb(5, 99, 99);
+    color: white;
+}

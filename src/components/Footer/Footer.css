@@ -1,0 +1,15 @@
+.footer {
+    background-color: rgb(5, 85, 85);
+    padding: 50px;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer p:hover {
+    color: gray;
+}

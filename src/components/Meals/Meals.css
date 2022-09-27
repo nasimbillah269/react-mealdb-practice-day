@@ -1,0 +1,20 @@
+.meals-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+
+}
+
+.meal-continer {
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    margin: 100px 100px;
+}
+
+.meals-summury-container {
+    background-color: rgb(250, 149, 137);
+    position: sticky;
+    top: 0;
+
+}
